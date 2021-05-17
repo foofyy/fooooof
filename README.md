@@ -1,0 +1,4 @@
+- Hi, I’m foof
+- I’m a gamedev and streamer currently focussing on unity and minecraft modding/datapacks
+- I’m currently learning c#, unity, kotlin, and trident (a lesser known programming language for minecraft datapacks)
+- Contact me via discord (foof#3527), or the server linked on my youtube page
